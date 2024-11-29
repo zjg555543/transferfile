@@ -1,0 +1,9 @@
+{
+  "rpc": [
+    "http://erigon-rpc.vali-global.svc.test.local:8545"
+  ],
+  "accountsFilePath": "/data/adventure/config/devnet/addr_20000_wmt",
+  "concurrency": 100,
+  "threshold": 2000,
+  "gasPrice": 9
+}
